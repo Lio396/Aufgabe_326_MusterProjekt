@@ -1,0 +1,13 @@
+Youtube Tutorials :
+
+Erzeugungsmuster Abstract Factory
+https://www.youtube.com/watch?v=2JCIsj5hVBc 
+https://de.wikipedia.org/wiki/Abstrakte_Fabrik
+
+Verhaltensmuster interpreter
+https://www.youtube.com/watch?v=QHkj9Fl-88U
+https://de.wikipedia.org/wiki/Interpreter_(Entwurfsmuster)#Verwendung
+
+Strukturmuster Bridge
+https://www.youtube.com/watch?v=mo8PRf0BPLE
+https://de.wikipedia.org/wiki/Br%C3%BCcke_(Entwurfsmuster)
